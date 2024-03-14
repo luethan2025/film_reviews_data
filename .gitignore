@@ -1,0 +1,8 @@
+# macOS
+.DS_Store/
+
+# npm
+node_modules/
+
+# created files and directories
+data/
