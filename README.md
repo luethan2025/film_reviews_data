@@ -26,7 +26,7 @@ Options:
   --filename <string>   destination file (default: "reviews.txt")
   -h, --help            display help for command
 ```
-At minimum you must at least set the url argument to successfully run the program. The dataset will be found in ./data/reviews.txt by default, however, if you set the directory or the filename argument the dataset will be found there instead.
+At minimum you must at least set the url argument to successfully run the program. The dataset will be found in `./data/reviews.txt` by default, however, if you set the directory or the filename argument the dataset will be found there instead.
 
 # Technologies
 Pixiv Data is built using [Node.js](https://nodejs.org/en) and the [Puppeteer API](https://github.com/puppeteer/puppeteer).
