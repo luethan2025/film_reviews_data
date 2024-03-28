@@ -10,7 +10,7 @@ Clone this repository to your machine:
 ```
 Now install the project's dependencies and configure Puppeteer by 'cd'-ing into the root of this project and running the command:
 ```shell
-> sh bin/scripts/setup.sh
+> sh setup.sh
 ```
 
 # Usage
